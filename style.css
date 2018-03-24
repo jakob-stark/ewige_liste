@@ -1,0 +1,25 @@
+.input_name, .input_name_err {
+	width: 12em;
+	padding: 12px 12px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid blue;
+    border-radius: 6px;
+}
+
+.input_name_err {
+	background-color: #FF7F00;
+}
+
+.input_score, .input_score_err{
+	width: 12em;
+	padding: 12px 12px;
+    margin: 0px 0;
+    box-sizing: border-box;
+    border: 2px solid gray;
+    border-radius: 6px;
+}
+
+.input_score_err{
+	  background-color: #FF7F00;
+}

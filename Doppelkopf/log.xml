@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gamelist>
+  <round>
+    <date>01.01.2000 10:25</date>
+    <player1>Maria</player1>
+    <player2>Jakob</player2>
+    <player3>Tobi</player3>
+    <player4>Marcus</player4>
+    <score1>1</score1>
+    <score2>-1</score2>
+    <score3>-1</score3>
+    <score4>1</score4>
+	<nrog>1</nrog>
+  </round>
+</gamelist>
